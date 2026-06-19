@@ -1,4 +1,4 @@
-function buySignal() {
+function buySignal() {script.js
   document.getElementById("result").innerHTML = "BUY Signal";
 }
 
